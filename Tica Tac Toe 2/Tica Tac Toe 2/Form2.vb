@@ -51,16 +51,5 @@
             Call disablebuttons()
         End If
     End Sub
-    Private Sub disablebuttons()
-        Button1.Enabled = False
-        Button2.Enabled = False
-        Button3.Enabled = False
-        Button4.Enabled = False
-        Button5.Enabled = False
-        Button6.Enabled = False
-        Button7.Enabled = False
-        Button8.Enabled = False
-        Button9.Enabled = False
-
-    End Sub
+   
 End Class
